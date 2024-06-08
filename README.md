@@ -1,20 +1,11 @@
-## 👋🏻 Hello, I'm Blaise. 
-I am an enthusiastic AI developer with deep experience spanning a broad spectrum of technologies. I am extremely proud to be the founder of the [largest community focused on artificial intelligence](https://discord.gg/IAHispano).
+## 👋🏻 Hello, I'm Blaise
 
-<a href="https://github-readme-stats.vercel.app/api?username=blaise-tk&show_icons=true&theme=dark#gh-dark-mode-only" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=blaise-tk&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a>
+I am an enthusiastic AI developer specializing in voice reconstruction, synthesized voice conversion, and music-related AI technologies. As the founder of [AI Hispano](https://discord.gg/IAHispano), one of the largest community dedicated to artificial intelligence, I am committed to advancing the field and fostering collaboration.
 
-### Projects:
-- Applio: [Ultimate voice cloning tool, meticulously optimized for unrivaled power, modularity, and user-friendly experience.](https://github.com/IAHispano/Applio)
-- Applio-Bot: [Versatile Discord bot designed to simplify various tasks!](https://github.com/IAHispano/Applio-Bot)
-- RVC_CLI: [RVC CLI enables seamless interaction with Retrieval-based Voice Conversion through commands or HTTP requests.](https://github.com/blaise-tk/RVC_CLI)
-- kitsai: [Unofficial package to easily interact with the Kits.AI API](https://github.com/blaise-tk/kitsai)
+Get in touch at blaise@applio.org or [@blaisewtf](https://discordapp.com/users/744968865481752626) on Discord
 
+### Technologies
+![](https://skillicons.dev/icons?i=js,ts,css,py,java,cpp,react,nodejs,git,bots,figma,cloudflare,vercel,github)
 
-### My main skills:
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,css,py,java,cpp,react,nodejs,git,bots,figma,cloudflare,vercel,github" />
-</a>
-
-
+### Stats
+![](https://github-readme-stats.vercel.app/api?username=blaise-tk&show_icons=true&theme=dark#gh-dark-mode-only)
